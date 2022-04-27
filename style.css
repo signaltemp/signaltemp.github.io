@@ -105,7 +105,7 @@ p {
   /* background-color: red; */
   position: absolute;
   top: 0%;
-  background-image: url('./confetti-10.gif'); 
+  background-image: url('./images/confetti-10.gif'); 
   background-size: auto auto;
   background-repeat: repeat-x;
   height: 100%;
@@ -602,7 +602,7 @@ p {
 
 #social-media {
   background-color: rgb(250, 250, 250);
-  background-image: url('./likes2.png');
+  background-image: url('./images/likes2.png');
   background-size: 100% auto;
 }
 
